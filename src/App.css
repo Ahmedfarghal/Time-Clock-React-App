@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+p.p-main {
+  font-size: 50pt;
+  margin: 2%;
+  margin-top: 5%;
+}
+
+div.div-main {
+  margin: 20%;
+  margin-top: 5%;
+  align-items: center;
+  font-size: 65pt;
+  color: black;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  -webkit-transition: color 1s linear;
+  -moz-transition: color 1s linear;
+  -ms-transition: color 1s linear;
+  -o-transition: color 1s linear;
+  transition: color 1s linear;
+}
+
+div.div-main:hover {
+  color: #ffffff;
+  cursor: pointer;
+}
