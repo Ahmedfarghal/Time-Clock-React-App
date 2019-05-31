@@ -13,7 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "Time-Clock-React-App -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
